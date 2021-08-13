@@ -6,13 +6,23 @@ Model implemented in python using Tensorflow
 
 <hr>
 <br>
+
 ### Examples shown below
+
 ![diagram](img/e1.png)
+
 <br>
-![diagram](img/e1.png)
+
+![diagram](img/e2.png)
+
 <br>
-![diagram](img/e1.png)
+
+![diagram](img/e3.png)
+
 <br>
-![diagram](img/e1.png)
+
+![diagram](img/e4.png)
+
 <br>
-![diagram](img/e1.png)
+
+![diagram](img/e5.png)
